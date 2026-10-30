@@ -1,0 +1,10 @@
+[
+  { "id": "com.apple.appletv", "name": "Apple TV", "from": "#2b2b2f", "to": "#0b0b0d" },
+  { "id": "netflix", "name": "Netflix", "from": "#e50914", "to": "#5c0408" },
+  { "id": "youtube.leanback.v4", "name": "YouTube", "from": "#ff3b30", "to": "#7a0f0a" },
+  { "id": "amazon", "name": "Prime Video", "from": "#1a98ff", "to": "#0b3a66" },
+  { "id": "com.disney.disneyplus-prod", "name": "Disney+", "from": "#1f3a8a", "to": "#0a1637" },
+  { "id": "cdp-30", "name": "Plex", "from": "#e5a00d", "to": "#6b4a05" },
+  { "id": "com.webos.app.hdmi1", "name": "HDMI 1", "from": "#3a3a3c", "to": "#161618" },
+  { "id": "com.webos.app.hdmi2", "name": "HDMI 2", "from": "#3a3a3c", "to": "#161618" }
+]
